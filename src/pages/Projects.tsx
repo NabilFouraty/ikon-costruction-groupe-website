@@ -68,7 +68,7 @@ const Projects = () => {
       client: 'Lakeside Towers',
       value: '',
       duration: '24 months',
-      image: 'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/Lakeside%20Towers%20-5.jpeg',
+      image: 'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/ba94ee9f7a67836a59685889354d2943-cc_ft_960.jpg',
       description: 'Lakeside Towers is a 13-acre residential apartment community consisting of eight 8-story mid-rise buildings. IKON Construction Group completed a full exterior and site renovation including roofing, waterproofing, exterior painting, architectural canopies, sidewalks, roadway resurfacing, parking reconfiguration, and extensive landscaping with a new irrigation system supplied from the lake. Additional improvements included a new 2,400 SF clubhouse, 2,400 SF open-air barbecue gazebo, and a new security gatehouse at the main entrance.',
     },
     {
