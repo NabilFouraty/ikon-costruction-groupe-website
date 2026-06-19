@@ -624,7 +624,7 @@ const ProjectDetails = () => {
       client: 'Private Client',
       value: '',
       duration: '24 months',
-      images: [
+      images: ["https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/ba94ee9f7a67836a59685889354d2943-cc_ft_960.jpg",
         'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/ba94ee9f7a67836a59685889354d2943-cc_ft_960.jpg',
         'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/b8d96d8047a1508bffe7ef5161706de15b8fc5a50a49ff393ce7388906f46eb2.webp',
         'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/Lakeside%20Towers%20-4.webp',
