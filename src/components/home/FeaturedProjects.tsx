@@ -46,7 +46,7 @@ const FeaturedProjects = () => {
       location: 'Kendall, FL',
       year: '2005–2007',
       category: 'Large Commercial',
-      image: 'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/Lakeside%20Towers%20-6.jpg',
+      image: 'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/ba94ee9f7a67836a59685889354d2943-cc_ft_960.jpg',
       description: 'Full exterior renovation of a 13-acre commercial complex with 8 mid-rise buildings, including new landscaping, paving, a 2,400 sq. ft. clubhouse addition, and a new guard house.'
     },
     {
