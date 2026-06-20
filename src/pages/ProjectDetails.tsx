@@ -626,10 +626,7 @@ const ProjectDetails = () => {
       duration: '24 months',
       images: ["https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/ba94ee9f7a67836a59685889354d2943-cc_ft_960.jpg",
         'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/b8d96d8047a1508bffe7ef5161706de15b8fc5a50a49ff393ce7388906f46eb2.webp',
-        'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/b8d96d8047a1508bffe7ef5161706de15b8fc5a50a49ff393ce7388906f46eb2.webp',
-        'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/Lakeside%20Towers%20-4.webp',
-        'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/Lakeside%20Towers%20-3.jpg',
-        'https://mxzklspbzbkxvtpyrstl.supabase.co/storage/v1/object/public/website%20photos/Lakeside%20Towers%20-2.jpeg',
+        
       ],
       description: 'Lakeside Towers is a 13-acre residential apartment community consisting of eight 8-story mid-rise buildings. IKON Construction Group completed a full exterior and site renovation including roofing, waterproofing, exterior painting, architectural canopies, sidewalks, roadway resurfacing, parking reconfiguration, and extensive landscaping with a new irrigation system supplied from the lake. Additional improvements included a new 2,400 SF clubhouse, 2,400 SF open-air barbecue gazebo, and a new security gatehouse at the main entrance.',
       challenge: 'Managing a full exterior and site renovation across 13 acres and 8 mid-rise buildings required precise coordination of roofing, waterproofing, landscaping, and site improvement trades simultaneously while keeping residents\u2019 access and daily routines uninterrupted throughout the multi-year project.',
