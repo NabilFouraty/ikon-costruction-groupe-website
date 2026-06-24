@@ -12,7 +12,7 @@ interface SEOHeadProps {
 
 const SEOHead: React.FC<SEOHeadProps> = ({
   title = 'IKON Construction Group - Premier Construction Services in Miami',
-  description = 'IKON Construction Group delivers exceptional residential and commercial construction services in Miami. 25+ years of experience in custom homes, renovations, and commercial buildings.',
+  description = 'IKON Construction Group delivers exceptional residential and commercial construction services in Miami. 35+ years of experience in custom homes, renovations, and commercial buildings.',
   keywords = 'construction Miami, custom homes Miami, commercial construction, residential construction, home renovation, Miami contractors, luxury construction',
   image = 'https://tizdudxhrtazamkkvtxf.supabase.co/storage/v1/object/public/Public%20Images/Ikon-team%20(1).jpeg',
   url = 'https://ikoncg.com',
