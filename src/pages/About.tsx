@@ -57,7 +57,7 @@ const About = () => {
     <div className="pt-16">
       <SEOHead 
         title="About IKON Construction Group - 35+ Years of Excellence in Miami"
-        description="Learn about IKON Construction Group's 25+ year history in Miami construction. Meet founder Gil Suissa and discover our values of excellence, collaboration, innovation, and integrity."
+        description="Learn about IKON Construction Group's 35+ year history in Miami construction. Meet founder Gil Suissa and discover our values of excellence, collaboration, innovation, and integrity."
         keywords="IKON Construction history, Gil Suissa founder, Miami construction company, construction experience, luxury construction Miami"
         url="https://ikoncg.com/about"
       />
