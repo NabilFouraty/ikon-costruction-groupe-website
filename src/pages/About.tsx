@@ -31,7 +31,7 @@ const About = () => {
       name: 'David Richardson',
       role: 'Founder & CEO',
       image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
-      bio: '25+ years of construction experience with a passion for innovative building solutions.'
+      bio: '35+ years of construction experience with a passion for innovative building solutions.'
     },
     {
       name: 'Maria Santos',
