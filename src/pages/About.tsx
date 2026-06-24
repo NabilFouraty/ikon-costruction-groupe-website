@@ -68,7 +68,7 @@ const About = () => {
             <div>
               <h1 className="text-4xl lg:text-5xl font-bold mb-6">
                 Building Excellence for
-                <span className="text-orange-500 block">Over 25 Years</span>
+                <span className="text-orange-500 block">Over 35 Years</span>
               </h1>
               <p className="text-xl text-gray-300 leading-relaxed mb-8">
                 IKON Construction Group has been at the forefront of innovative construction 
