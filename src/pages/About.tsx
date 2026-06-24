@@ -103,7 +103,7 @@ const About = () => {
             <h2 className="text-3xl font-bold text-gray-900 text-center mb-8">Visionary Construction Led by Gil Suissa</h2>
             <div className="prose prose-lg mx-auto text-gray-600">
               <p className="text-center leading-relaxed">
-                With over 25+ years of industry experience and a portfolio of more than 500+ successfully delivered projects, Gil Suissa has established IKON Construction Group as a premier force in South Florida's real estate development. Widely respected as one of the most sought-after, visionary, and contemporary general contractors in the industry, Gil is celebrated for bringing an unparalleled design vision and an innovative edge to every space he touches.
+                With over 35+ years of industry experience and a portfolio of more than 500+ successfully delivered projects, Gil Suissa has established IKON Construction Group as a premier force in South Florida's real estate development. Widely respected as one of the most sought-after, visionary, and contemporary general contractors in the industry, Gil is celebrated for bringing an unparalleled design vision and an innovative edge to every space he touches.
               </p>
             </div>
           </div>
