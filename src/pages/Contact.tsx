@@ -338,7 +338,7 @@ const Contact = () => {
                 <div className="space-y-4">
                   {[
                     'Free initial consultation and project assessment',
-                    '25+ years of construction experience',
+                    '35+ years of construction experience',
                     'Licensed, bonded, and fully insured',
                     'Transparent pricing with detailed estimates',
                     'Quality guarantee on all workmanship',
