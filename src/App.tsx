@@ -13,12 +13,14 @@ import FAQ from './pages/FAQ';
 import Careers from './pages/Careers';
 import Contact from './pages/Contact';
 import ScrollToTop from './components/ScrollToTop';
+import AudioController from './components/AudioController';
 
 function App() {
   return (
     <Router>
       <div className="min-h-screen bg-white">
         <ScrollToTop />
+        <AudioController />
         <Header />
         <main>
           <Routes>
