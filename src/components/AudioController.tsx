@@ -7,10 +7,21 @@ const AudioController = () => {
 
   useEffect(() => {
     const handler = () => enableAudio();
+
+    // Click is always a real user gesture — add immediately.
     window.addEventListener('click', handler, { once: true });
-    window.addEventListener('scroll', handler, { once: true, passive: true });
+    window.addEventListener('touchstart', handler, { once: true, passive: true });
+
+    // Delay scroll listener so it doesn't fire from ScrollToTop's
+    // programmatic window.scrollTo(0, 0) that runs on mount.
+    const timer = setTimeout(() => {
+      window.addEventListener('scroll', handler, { once: true, passive: true });
+    }, 400);
+
     return () => {
+      clearTimeout(timer);
       window.removeEventListener('click', handler);
+      window.removeEventListener('touchstart', handler);
       window.removeEventListener('scroll', handler);
     };
   }, []);

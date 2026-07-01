@@ -12,17 +12,22 @@ function getAudio(): HTMLAudioElement {
 }
 
 export function enableAudio(): void {
-  if (hasInteracted) return;
   hasInteracted = true;
   if (shouldPlay) {
-    getAudio().play().catch(() => {});
+    const a = getAudio();
+    if (a.paused) {
+      a.play().catch(() => {});
+    }
   }
 }
 
 export function setHomePage(isHome: boolean): void {
   shouldPlay = isHome;
   if (isHome && hasInteracted) {
-    getAudio().play().catch(() => {});
+    const a = getAudio();
+    if (a.paused) {
+      a.play().catch(() => {});
+    }
   } else if (!isHome) {
     getAudio().pause();
   }
